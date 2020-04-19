@@ -12,6 +12,9 @@
 
 * When you are finished with your assignment, you will turn in the URL to your tableau public workbook along with any additional files used for your analysis. 
 
+https://public.tableau.com/profile/rajitha.baddam#!/vizhome/city_bike_analysis/Overall?publish=yes
+
+
 ## Background
 
 ![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
